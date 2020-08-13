@@ -1,1 +1,1 @@
-print(It' so crazy, it just might work!)
+print("It's so crazy, it just might work!")
